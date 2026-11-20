@@ -1,0 +1,19 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# YOLO model weights (automatically downloaded when needed)
+*.pt
+
+# Local configuration and editor files
+.env
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
